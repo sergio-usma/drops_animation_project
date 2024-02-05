@@ -49,7 +49,7 @@ The project was developed using HTML5, CSS3 and basic javascript DOM manipulatio
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://sergio-usma.github.io/)
+- [Live Demo Link](https://sergio-usma.github.io/drops_animation_project/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
