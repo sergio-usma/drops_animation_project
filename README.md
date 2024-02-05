@@ -6,6 +6,7 @@
   <br/>
 
   <h3><b>Drops Animation Project</b></h3>
+  <p><I>(Try to follow the last square!)</i></p>
 
 </div>
 
