@@ -27,21 +27,21 @@
 
 # 📖 Key Codes Project <a name="about-project"></a>
 
-**Drops Animation** is a micro-project based on JavaScript that prints on the screen the key, code, and key code of every key that you press on your physical keyboard.
+**Drops Animation** is a micro-project based on JavaScript that generate a random animation hypnotic-psychedelic effect on the screen. The project was developed using HTML5, CSS3 and basic JavaScript DOM manipulation.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-The project was develop using HTML5, CSS3 and basic javascript DOM manipulation with basic addEventListeners to listen the key pressed by the user.
+The project was developed using HTML5, CSS3 and basic javascript DOM manipulation with basic animations and transitions using Math.random() function to generate random values for the animation appearing coordinates.
 
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-- **Listen pressed key on physical keyboard**
-- **Present the UTF Code of the key**
-- **Shows the key code of the given key]**
+- **DOM manipulation using JavaScript ES6**
+- **Element creation using DOM**
+- **Basic HTML and CSS styling**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -69,9 +69,9 @@ The project was develop using HTML5, CSS3 and basic javascript DOM manipulation 
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Better user interface**
+- [ ] **Better user interface inspired in space**
 - [ ] **Responsiveness**
-- [ ] **Google Ads integration**
+- [ ] **Stars instead geometric figures**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
